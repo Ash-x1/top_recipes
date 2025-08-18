@@ -1,0 +1,112 @@
+/*
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+*/
+
+/*Main page*/
+
+body {
+    background-color: #0D1164;
+    display: block;
+}
+
+.main-title {
+    color: aqua;
+    background-color: #EA2264;
+    padding: 4px ;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.sub-main-title{
+    color: aliceblue;
+    margin: auto;
+}
+
+.dishes-list{
+    color: black;
+    background-color: #F78D60;
+    border-radius: 10px;
+    padding: 1px;
+    /*margin: auto;*/
+    margin-right: auto;
+    margin-top: 10px;
+    width: fit-content;
+
+}
+
+
+/*Mhajeb page*/
+
+.mhajeb-main-title{
+    color: aqua;
+    background-color: #EA2264;
+    padding: 4px ;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.mhajeb-image img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.mhajeb-strong{
+    color: burlywood;
+    margin: auto;
+}
+
+.mhajeb-em{
+    color: black;
+    background-color: #FAD691;
+    border-radius: 5px;
+    width: fit-content;
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.mhajeb-ingredient-title{
+    color: aliceblue;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.mhajeb-ingredients{
+    color: white;
+    background-color: #F78D60;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+.mhajeb-steps-title{
+    color: aliceblue;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.mhajeb-steps{
+    color: white;
+    background-color: #F78D60;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+.mhajeb-home{
+    background-color: azure;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    padding: 4px;
+}
